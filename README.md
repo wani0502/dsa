@@ -8,6 +8,7 @@
 | [0012-integer-to-roman](https://github.com/wani0502/dsa/tree/master/0012-integer-to-roman) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wani0502/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/wani0502/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1331-rank-transform-of-an-array](https://github.com/wani0502/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/wani0502/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
@@ -70,6 +71,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wani0502/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/wani0502/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1331-rank-transform-of-an-array](https://github.com/wani0502/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/wani0502/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/wani0502/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
@@ -107,6 +109,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/wani0502/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/wani0502/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
