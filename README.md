@@ -120,4 +120,8 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/wani0502/dsa/tree/master/0113-path-sum-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/wani0502/dsa/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
