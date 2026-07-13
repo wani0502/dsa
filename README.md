@@ -74,6 +74,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/wani0502/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/wani0502/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/wani0502/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/wani0502/dsa/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/wani0502/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/wani0502/dsa/tree/master/3689-maximum-total-subarray-value-i) |
 ## Bit Manipulation
 |  |
 | ------- |
