@@ -1,17 +1,23 @@
 class Solution {
 public:
     vector<int> pivotArray(vector<int>& nums, int pivot) {
-        vector<int> ans;
-
-        for (int x : nums)
-            if (x < pivot) ans.push_back(x);
-
-        for (int x : nums)
-            if (x == pivot) ans.push_back(x);
-
-        for (int x : nums)
-            if (x > pivot) ans.push_back(x);
-
+        vector<int> ans(nums.size());
+        int less=0;
+        int greater=nums.size()-1;
+        for(int i=0,j=nums.size()-1;i<nums.size();i++,j--){
+            if(nums[i]<pivot){
+                ans[less]=nums[i];
+                less++;
+            }
+            if(nums[j]>pivot){
+                ans[greater]=nums[j];
+                greater--;
+            }
+        }
+        while(less<=greater){
+            ans[less]=pivot;
+            less++;
+        }      
         return ans;
     }
 };
