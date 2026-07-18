@@ -1,9 +1,12 @@
 class Solution {
 public:
     int findGCD(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        int smallest=nums[0],largest=nums[nums.size()-1];
-        int ans=std::gcd(smallest,largest);
+        int maxi=nums[0],mini=nums[0];
+        for(int i=1;i<nums.size();i++){
+            if(maxi<nums[i]) maxi=nums[i];
+            if(mini>nums[i]) mini=nums[i];
+        }
+        int ans=gcd(maxi,mini);
         return ans;
     }
 };
