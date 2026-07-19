@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/wani0502/dsa/tree/master/0012-integer-to-roman) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/wani0502/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/wani0502/dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -119,6 +120,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/wani0502/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/wani0502/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/wani0502/dsa/tree/master/3689-maximum-total-subarray-value-i) |
 ## Bit Manipulation
@@ -151,6 +153,7 @@
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/wani0502/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/wani0502/dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
@@ -173,4 +176,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/wani0502/dsa/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/wani0502/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
