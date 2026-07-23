@@ -60,6 +60,7 @@
 | [0112-path-sum](https://github.com/wani0502/dsa/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/wani0502/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/wani0502/dsa/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/wani0502/dsa/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/wani0502/dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -82,6 +83,7 @@
 | [0200-number-of-islands](https://github.com/wani0502/dsa/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/wani0502/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/wani0502/dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/wani0502/dsa/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/wani0502/dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Array
 |  |
@@ -115,12 +117,14 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/wani0502/dsa/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/wani0502/dsa/tree/master/0547-number-of-provinces) |
 | [0952-largest-component-size-by-common-factor](https://github.com/wani0502/dsa/tree/master/0952-largest-component-size-by-common-factor) |
 | [2685-count-the-number-of-complete-components](https://github.com/wani0502/dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/wani0502/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/wani0502/dsa/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/wani0502/dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/wani0502/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/wani0502/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
