@@ -61,6 +61,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/wani0502/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/wani0502/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/wani0502/dsa/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/wani0502/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/wani0502/dsa/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/wani0502/dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -95,6 +96,7 @@
 | [0200-number-of-islands](https://github.com/wani0502/dsa/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/wani0502/dsa/tree/master/0204-count-primes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/wani0502/dsa/tree/master/0952-largest-component-size-by-common-factor) |
+| [0994-rotting-oranges](https://github.com/wani0502/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/wani0502/dsa/tree/master/1020-number-of-enclaves) |
 | [1250-check-if-it-is-a-good-array](https://github.com/wani0502/dsa/tree/master/1250-check-if-it-is-a-good-array) |
 | [1260-shift-2d-grid](https://github.com/wani0502/dsa/tree/master/1260-shift-2d-grid) |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/wani0502/dsa/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/wani0502/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/wani0502/dsa/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/wani0502/dsa/tree/master/1260-shift-2d-grid) |
 ## Segment Tree
