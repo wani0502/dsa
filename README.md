@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/wani0502/dsa/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/wani0502/dsa/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/wani0502/dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/wani0502/dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/wani0502/dsa/tree/master/0342-power-of-four) |
@@ -214,6 +215,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/wani0502/dsa/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/wani0502/dsa/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/wani0502/dsa/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/wani0502/dsa/tree/master/0231-power-of-two) |
