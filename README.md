@@ -123,6 +123,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/wani0502/dsa/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wani0502/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/wani0502/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/wani0502/dsa/tree/master/0130-surrounded-regions) |
@@ -211,6 +212,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/wani0502/dsa/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/wani0502/dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/wani0502/dsa/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/wani0502/dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -238,6 +240,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/wani0502/dsa/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/wani0502/dsa/tree/master/0113-path-sum-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/wani0502/dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
