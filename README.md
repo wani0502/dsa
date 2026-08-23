@@ -130,6 +130,7 @@
 | [0137-single-number-ii](https://github.com/wani0502/dsa/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/wani0502/dsa/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/wani0502/dsa/tree/master/0204-count-primes) |
+| [0260-single-number-iii](https://github.com/wani0502/dsa/tree/master/0260-single-number-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wani0502/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/wani0502/dsa/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/wani0502/dsa/tree/master/0952-largest-component-size-by-common-factor) |
@@ -216,6 +217,7 @@
 | [0078-subsets](https://github.com/wani0502/dsa/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/wani0502/dsa/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/wani0502/dsa/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/wani0502/dsa/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/wani0502/dsa/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/wani0502/dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/wani0502/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
