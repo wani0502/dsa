@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        long long xora=0.0;
+        long long xora=0;
         for(int x:nums){
             xora=xora^x;
         }
