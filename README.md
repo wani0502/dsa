@@ -31,6 +31,7 @@
 | [1250-check-if-it-is-a-good-array](https://github.com/wani0502/dsa/tree/master/1250-check-if-it-is-a-good-array) |
 | [1406-stone-game-iii](https://github.com/wani0502/dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/wani0502/dsa/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/wani0502/dsa/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/wani0502/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/wani0502/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/wani0502/dsa/tree/master/3312-sorted-gcd-pair-queries) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/wani0502/dsa/tree/master/0012-integer-to-roman) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/wani0502/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/wani0502/dsa/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/wani0502/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/wani0502/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/wani0502/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -206,6 +208,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/wani0502/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/wani0502/dsa/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/wani0502/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/wani0502/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/wani0502/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -330,6 +333,7 @@
 | [1140-stone-game-ii](https://github.com/wani0502/dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/wani0502/dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/wani0502/dsa/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/wani0502/dsa/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
