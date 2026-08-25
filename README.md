@@ -135,6 +135,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/wani0502/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/wani0502/dsa/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/wani0502/dsa/tree/master/0137-single-number-ii) |
+| [0198-house-robber](https://github.com/wani0502/dsa/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/wani0502/dsa/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/wani0502/dsa/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/wani0502/dsa/tree/master/0260-single-number-iii) |
@@ -204,6 +205,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/wani0502/dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/wani0502/dsa/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/wani0502/dsa/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/wani0502/dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/wani0502/dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/wani0502/dsa/tree/master/1406-stone-game-iii) |
