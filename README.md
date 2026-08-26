@@ -130,6 +130,7 @@
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/wani0502/dsa/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/wani0502/dsa/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wani0502/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/wani0502/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/wani0502/dsa/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/wani0502/dsa/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/wani0502/dsa/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/wani0502/dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/wani0502/dsa/tree/master/0213-house-robber-ii) |
@@ -318,6 +320,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/wani0502/dsa/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/wani0502/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/wani0502/dsa/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/wani0502/dsa/tree/master/0994-rotting-oranges) |
