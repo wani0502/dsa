@@ -145,6 +145,7 @@
 | [0204-count-primes](https://github.com/wani0502/dsa/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/wani0502/dsa/tree/master/0213-house-robber-ii) |
 | [0260-single-number-iii](https://github.com/wani0502/dsa/tree/master/0260-single-number-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/wani0502/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wani0502/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/wani0502/dsa/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/wani0502/dsa/tree/master/0952-largest-component-size-by-common-factor) |
@@ -216,6 +217,7 @@
 | [0120-triangle](https://github.com/wani0502/dsa/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/wani0502/dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/wani0502/dsa/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/wani0502/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0877-stone-game](https://github.com/wani0502/dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/wani0502/dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/wani0502/dsa/tree/master/1406-stone-game-iii) |
@@ -390,4 +392,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/wani0502/dsa/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/wani0502/dsa/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/wani0502/dsa/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
