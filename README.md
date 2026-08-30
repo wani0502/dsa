@@ -137,6 +137,7 @@
 | [0078-subsets](https://github.com/wani0502/dsa/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wani0502/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/wani0502/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/wani0502/dsa/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/wani0502/dsa/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/wani0502/dsa/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/wani0502/dsa/tree/master/0198-house-robber) |
@@ -212,6 +213,7 @@
 | [0063-unique-paths-ii](https://github.com/wani0502/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/wani0502/dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/wani0502/dsa/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/wani0502/dsa/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/wani0502/dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/wani0502/dsa/tree/master/0213-house-robber-ii) |
 | [0877-stone-game](https://github.com/wani0502/dsa/tree/master/0877-stone-game) |
