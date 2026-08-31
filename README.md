@@ -148,6 +148,7 @@
 | [0260-single-number-iii](https://github.com/wani0502/dsa/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/wani0502/dsa/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/wani0502/dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/wani0502/dsa/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wani0502/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/wani0502/dsa/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/wani0502/dsa/tree/master/0952-largest-component-size-by-common-factor) |
@@ -221,6 +222,7 @@
 | [0213-house-robber-ii](https://github.com/wani0502/dsa/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/wani0502/dsa/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/wani0502/dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/wani0502/dsa/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/wani0502/dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/wani0502/dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/wani0502/dsa/tree/master/1406-stone-game-iii) |
@@ -277,6 +279,7 @@
 | ------- |
 | [0078-subsets](https://github.com/wani0502/dsa/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/wani0502/dsa/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/wani0502/dsa/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/wani0502/dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
@@ -400,10 +403,12 @@
 | ------- |
 | [0322-coin-change](https://github.com/wani0502/dsa/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/wani0502/dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/wani0502/dsa/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/wani0502/dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/wani0502/dsa/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
