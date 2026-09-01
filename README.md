@@ -140,6 +140,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/wani0502/dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/wani0502/dsa/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/wani0502/dsa/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/wani0502/dsa/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/wani0502/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/wani0502/dsa/tree/master/0064-minimum-path-sum) |
@@ -291,6 +292,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/wani0502/dsa/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/wani0502/dsa/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wani0502/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/wani0502/dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -470,6 +472,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/wani0502/dsa/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/wani0502/dsa/tree/master/0455-assign-cookies) |
 ## Bracket Sequences
 |  |
