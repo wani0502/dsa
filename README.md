@@ -156,6 +156,7 @@
 | [0494-target-sum](https://github.com/wani0502/dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/wani0502/dsa/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wani0502/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0860-lemonade-change](https://github.com/wani0502/dsa/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/wani0502/dsa/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/wani0502/dsa/tree/master/0952-largest-component-size-by-common-factor) |
 | [0994-rotting-oranges](https://github.com/wani0502/dsa/tree/master/0994-rotting-oranges) |
@@ -251,6 +252,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/wani0502/dsa/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/wani0502/dsa/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/wani0502/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/wani0502/dsa/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/wani0502/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
