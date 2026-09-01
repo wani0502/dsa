@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/wani0502/dsa/tree/master/0012-integer-to-roman) |
+| [0516-longest-palindromic-subsequence](https://github.com/wani0502/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/wani0502/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/wani0502/dsa/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/wani0502/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -224,6 +225,7 @@
 | [0322-coin-change](https://github.com/wani0502/dsa/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/wani0502/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/wani0502/dsa/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/wani0502/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/wani0502/dsa/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/wani0502/dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/wani0502/dsa/tree/master/1140-stone-game-ii) |
