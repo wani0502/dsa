@@ -167,6 +167,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/wani0502/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1872-stone-game-viii](https://github.com/wani0502/dsa/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/wani0502/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/wani0502/dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/wani0502/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/wani0502/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/wani0502/dsa/tree/master/3312-sorted-gcd-pair-queries) |
@@ -182,6 +183,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/wani0502/dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/wani0502/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/wani0502/dsa/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/wani0502/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -210,6 +212,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/wani0502/dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/wani0502/dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/wani0502/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/wani0502/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -238,6 +241,7 @@
 | [1406-stone-game-iii](https://github.com/wani0502/dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/wani0502/dsa/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/wani0502/dsa/tree/master/1872-stone-game-viii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/wani0502/dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/wani0502/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/wani0502/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/wani0502/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -262,6 +266,7 @@
 | [0231-power-of-two](https://github.com/wani0502/dsa/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/wani0502/dsa/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/wani0502/dsa/tree/master/0342-power-of-four) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/wani0502/dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/wani0502/dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/wani0502/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/wani0502/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -272,6 +277,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/wani0502/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/wani0502/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/wani0502/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/wani0502/dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/wani0502/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/wani0502/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/wani0502/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -430,4 +436,16 @@
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/wani0502/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/wani0502/dsa/tree/master/1092-shortest-common-supersequence) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/wani0502/dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/wani0502/dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/wani0502/dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
