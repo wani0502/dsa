@@ -170,6 +170,7 @@
 | [0494-target-sum](https://github.com/wani0502/dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/wani0502/dsa/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wani0502/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/wani0502/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/wani0502/dsa/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/wani0502/dsa/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/wani0502/dsa/tree/master/0952-largest-component-size-by-common-factor) |
@@ -262,6 +263,7 @@
 | [0518-coin-change-ii](https://github.com/wani0502/dsa/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/wani0502/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/wani0502/dsa/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/wani0502/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/wani0502/dsa/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/wani0502/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/wani0502/dsa/tree/master/1140-stone-game-ii) |
@@ -283,6 +285,7 @@
 | [0435-non-overlapping-intervals](https://github.com/wani0502/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/wani0502/dsa/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/wani0502/dsa/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/wani0502/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/wani0502/dsa/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/wani0502/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/wani0502/dsa/tree/master/1927-sum-game) |
