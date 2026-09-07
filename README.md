@@ -174,6 +174,7 @@
 | [0494-target-sum](https://github.com/wani0502/dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/wani0502/dsa/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wani0502/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/wani0502/dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/wani0502/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/wani0502/dsa/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/wani0502/dsa/tree/master/0877-stone-game) |
@@ -269,6 +270,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/wani0502/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/wani0502/dsa/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/wani0502/dsa/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/wani0502/dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/wani0502/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/wani0502/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/wani0502/dsa/tree/master/0877-stone-game) |
@@ -416,6 +418,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/wani0502/dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/wani0502/dsa/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Topological Sort
 |  |
@@ -510,4 +513,12 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/wani0502/dsa/tree/master/0678-valid-parenthesis-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/wani0502/dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/wani0502/dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
