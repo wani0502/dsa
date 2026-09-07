@@ -9,6 +9,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wani0502/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/wani0502/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0952-largest-component-size-by-common-factor](https://github.com/wani0502/dsa/tree/master/0952-largest-component-size-by-common-factor) |
+| [1048-longest-string-chain](https://github.com/wani0502/dsa/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/wani0502/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/wani0502/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/wani0502/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -60,6 +61,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/wani0502/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/wani0502/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/wani0502/dsa/tree/master/0678-valid-parenthesis-string) |
+| [1048-longest-string-chain](https://github.com/wani0502/dsa/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/wani0502/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/wani0502/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/wani0502/dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -178,6 +180,7 @@
 | [0952-largest-component-size-by-common-factor](https://github.com/wani0502/dsa/tree/master/0952-largest-component-size-by-common-factor) |
 | [0994-rotting-oranges](https://github.com/wani0502/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/wani0502/dsa/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/wani0502/dsa/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/wani0502/dsa/tree/master/1140-stone-game-ii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/wani0502/dsa/tree/master/1250-check-if-it-is-a-good-array) |
 | [1260-shift-2d-grid](https://github.com/wani0502/dsa/tree/master/1260-shift-2d-grid) |
@@ -232,6 +235,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/wani0502/dsa/tree/master/0455-assign-cookies) |
+| [1048-longest-string-chain](https://github.com/wani0502/dsa/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/wani0502/dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/wani0502/dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/wani0502/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -268,6 +272,7 @@
 | [0678-valid-parenthesis-string](https://github.com/wani0502/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/wani0502/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/wani0502/dsa/tree/master/0877-stone-game) |
+| [1048-longest-string-chain](https://github.com/wani0502/dsa/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/wani0502/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/wani0502/dsa/tree/master/1140-stone-game-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/wani0502/dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -321,6 +326,7 @@
 | [0435-non-overlapping-intervals](https://github.com/wani0502/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/wani0502/dsa/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wani0502/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [1048-longest-string-chain](https://github.com/wani0502/dsa/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/wani0502/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/wani0502/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/wani0502/dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
