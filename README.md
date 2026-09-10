@@ -91,6 +91,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/wani0502/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/wani0502/dsa/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/wani0502/dsa/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/wani0502/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1872-stone-game-viii](https://github.com/wani0502/dsa/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/wani0502/dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/wani0502/dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -202,6 +203,7 @@
 | [1260-shift-2d-grid](https://github.com/wani0502/dsa/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/wani0502/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/wani0502/dsa/tree/master/1406-stone-game-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/wani0502/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/wani0502/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1872-stone-game-viii](https://github.com/wani0502/dsa/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/wani0502/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -546,4 +548,5 @@
 | [1004-max-consecutive-ones-iii](https://github.com/wani0502/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/wani0502/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/wani0502/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/wani0502/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
