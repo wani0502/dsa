@@ -580,4 +580,8 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/wani0502/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/wani0502/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/wani0502/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/wani0502/dsa/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
