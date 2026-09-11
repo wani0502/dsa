@@ -12,7 +12,7 @@
 class Solution {
 public:
     int func(TreeNode* root , int &maxi){
-         if(root==NULL) return 0;
+        if(root==NULL) return 0;
         int lh=func(root->left,maxi);
         int rh=func(root->right,maxi);
         maxi=max(maxi,lh+rh);
