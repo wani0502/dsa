@@ -1,68 +1,71 @@
 class Solution {
-public:
-    unordered_map<TreeNode*, TreeNode*> parent;
-    void addParent(TreeNode* root) {
-        if(!root)
-            return;
-        
-        if(root->left)
-            parent[root->left] = root;
-        
-        addParent(root->left);
-        
-        if(root->right)
-            parent[root->right] = root;
-        
-        addParent(root->right);
+    void markParents(TreeNode* root, unordered_map<TreeNode*, TreeNode*> &parent_track, TreeNode* target) {
+        queue<TreeNode*> queue;
+        queue.push(root);
+
+        while(!queue.empty()) {
+            TreeNode* current = queue.front();
+            queue.pop();
+
+            if(current->left) {
+                parent_track[current->left] = current;
+                queue.push(current->left);
+            }
+
+            if(current->right) {
+                parent_track[current->right] = current;
+                queue.push(current->right);
+            }
+        }
     }
-    
-    void collectKDistanceNodes(TreeNode* target, int k, vector<int>& result) {
-        
-        queue<TreeNode*> que;
-        que.push(target);
-        unordered_set<int> visited;
-        visited.insert(target->val);
-        
-        while(!que.empty()) {
-            
-            int n = que.size();
-            if(k == 0)
-                break;
-            
-            while(n--) {
-                TreeNode* curr = que.front();
-                que.pop();
-                
-                if(curr->left && !visited.count(curr->left->val)) {
-                    que.push(curr->left);
-                    visited.insert(curr->left->val);
+
+public:
+    vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
+        unordered_map<TreeNode*, TreeNode*> parent_track; // node -> parent
+        markParents(root, parent_track, target);
+
+        unordered_map<TreeNode*, bool> visited;
+        queue<TreeNode*> queue;
+        queue.push(target);
+        visited[target] = true;
+
+        int curr_level = 0;
+
+        while(!queue.empty()) {
+            int size = queue.size();
+
+            if(curr_level++ == k) break;
+
+            for(int i = 0; i < size; i++) {
+                TreeNode* current = queue.front();
+                queue.pop();
+
+                if(current->left && !visited[current->left]) {
+                    queue.push(current->left);
+                    visited[current->left] = true;
                 }
-                if(curr->right && !visited.count(curr->right->val)) {
-                    que.push(curr->right);
-                    visited.insert(curr->right->val);
+
+                if(current->right && !visited[current->right]) {
+                    queue.push(current->right);
+                    visited[current->right] = true;
                 }
-                
-                if(parent.count(curr) && !visited.count(parent[curr]->val)) {
-                    que.push(parent[curr]);
-                    visited.insert(parent[curr]->val);
+
+                if(parent_track[current] && !visited[parent_track[current]]) {
+                    queue.push(parent_track[current]);
+                    visited[parent_track[current]] = true;
                 }
             }
-            k--;
         }
-        
-        while(!que.empty()) {
-            TreeNode* temp = que.front();
-            que.pop();
-            result.push_back(temp->val);
-        }
-    }
-    
-    vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
+
         vector<int> result;
-        
-        addParent(root);
-        
-        collectKDistanceNodes(target, k, result);
+
+        while(!queue.empty()) {
+            TreeNode* current = queue.front();
+            queue.pop();
+
+            result.push_back(current->val);
+        }
+
         return result;
     }
 };
