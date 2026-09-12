@@ -1,47 +1,68 @@
 class Solution {
 public:
-    void find(TreeNode* root, int k, vector<int>& ans) {
-        if (root == nullptr || k < 0)
+    unordered_map<TreeNode*, TreeNode*> parent;
+    void addParent(TreeNode* root) {
+        if(!root)
             return;
-        if (k == 0) {
-            ans.push_back(root->val);
-            return;
-        }
-        find(root->left, k - 1, ans);
-        find(root->right, k - 1, ans);
+        
+        if(root->left)
+            parent[root->left] = root;
+        
+        addParent(root->left);
+        
+        if(root->right)
+            parent[root->right] = root;
+        
+        addParent(root->right);
     }
-    void dfs(TreeNode* root, TreeNode* target, int k,
-        int& distance, bool& found, vector<int>& ans) {
-        if (root == nullptr)
-            return;
-        if (root == target) {
-            found = true;
-            distance = 0;
-            find(root, k, ans); 
-            return;
+    
+    void collectKDistanceNodes(TreeNode* target, int k, vector<int>& result) {
+        
+        queue<TreeNode*> que;
+        que.push(target);
+        unordered_set<int> visited;
+        visited.insert(target->val);
+        
+        while(!que.empty()) {
+            
+            int n = que.size();
+            if(k == 0)
+                break;
+            
+            while(n--) {
+                TreeNode* curr = que.front();
+                que.pop();
+                
+                if(curr->left && !visited.count(curr->left->val)) {
+                    que.push(curr->left);
+                    visited.insert(curr->left->val);
+                }
+                if(curr->right && !visited.count(curr->right->val)) {
+                    que.push(curr->right);
+                    visited.insert(curr->right->val);
+                }
+                
+                if(parent.count(curr) && !visited.count(parent[curr]->val)) {
+                    que.push(parent[curr]);
+                    visited.insert(parent[curr]->val);
+                }
+            }
+            k--;
         }
-        dfs(root->left, target, k, distance, found, ans);
-        if (found) {
-            distance++; 
-            if (distance == k)
-                ans.push_back(root->val);
-            find(root->right, k - distance - 1, ans);
-            return;
-        }
-        dfs(root->right, target, k, distance, found, ans);
-        if (found) {
-            distance++; 
-            if (distance == k)
-                ans.push_back(root->val);
-            find(root->left, k - distance - 1, ans);
-            return;
+        
+        while(!que.empty()) {
+            TreeNode* temp = que.front();
+            que.pop();
+            result.push_back(temp->val);
         }
     }
+    
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        vector<int> ans;
-        bool found = false;
-        int distance = 0;
-        dfs(root, target, k, distance, found, ans);
-        return ans;
+        vector<int> result;
+        
+        addParent(root);
+        
+        collectKDistanceNodes(target, k, result);
+        return result;
     }
 };
