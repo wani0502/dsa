@@ -70,6 +70,7 @@
 | [0076-minimum-window-substring](https://github.com/wani0502/dsa/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/wani0502/dsa/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/wani0502/dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/wani0502/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/wani0502/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/wani0502/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/wani0502/dsa/tree/master/0583-delete-operation-for-two-strings) |
@@ -122,6 +123,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/wani0502/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/wani0502/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/wani0502/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/wani0502/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/wani0502/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/wani0502/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wani0502/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -138,6 +140,7 @@
 | [0130-surrounded-regions](https://github.com/wani0502/dsa/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/wani0502/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/wani0502/dsa/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/wani0502/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/wani0502/dsa/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/wani0502/dsa/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/wani0502/dsa/tree/master/0662-maximum-width-of-binary-tree) |
@@ -169,6 +172,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/wani0502/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/wani0502/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/wani0502/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/wani0502/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/wani0502/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/wani0502/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wani0502/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -190,6 +194,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/wani0502/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/wani0502/dsa/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/wani0502/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/wani0502/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/wani0502/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/wani0502/dsa/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/wani0502/dsa/tree/master/0662-maximum-width-of-binary-tree) |
@@ -624,4 +629,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/wani0502/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/wani0502/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
