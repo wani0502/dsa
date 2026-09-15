@@ -136,6 +136,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/wani0502/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wani0502/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wani0502/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/wani0502/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -193,6 +194,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/wani0502/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wani0502/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wani0502/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/wani0502/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -269,6 +271,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/wani0502/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/wani0502/dsa/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/wani0502/dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/wani0502/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/wani0502/dsa/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/wani0502/dsa/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/wani0502/dsa/tree/master/1140-stone-game-ii) |
@@ -471,6 +474,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/wani0502/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/wani0502/dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/wani0502/dsa/tree/master/0678-valid-parenthesis-string) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/wani0502/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/wani0502/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/wani0502/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/wani0502/dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -509,6 +513,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/wani0502/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/wani0502/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
@@ -669,6 +674,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/wani0502/dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/wani0502/dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/wani0502/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/wani0502/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
 | ------- |
