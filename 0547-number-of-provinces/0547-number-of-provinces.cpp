@@ -3,7 +3,6 @@ private:
     void dfs(int node, vector<vector<int>>& isConnected, vector<bool>& vis) {
         vis[node] = true;
         for (int neighbor = 0; neighbor < isConnected.size(); neighbor++) {
-            // If there's a connection and the neighbor hasn't been visited
             if (isConnected[node][neighbor] == 1 && !vis[neighbor]) {
                 dfs(neighbor, isConnected, vis);
             }
