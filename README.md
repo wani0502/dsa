@@ -9,6 +9,7 @@
 | [0076-minimum-window-substring](https://github.com/wani0502/dsa/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wani0502/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/wani0502/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/wani0502/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/wani0502/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wani0502/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -270,6 +271,7 @@
 | [0200-number-of-islands](https://github.com/wani0502/dsa/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/wani0502/dsa/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/wani0502/dsa/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/wani0502/dsa/tree/master/0260-single-number-iii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/wani0502/dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/wani0502/dsa/tree/master/0322-coin-change) |
@@ -452,6 +454,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/wani0502/dsa/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/wani0502/dsa/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/wani0502/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/wani0502/dsa/tree/master/0455-assign-cookies) |
@@ -535,6 +538,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/wani0502/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/wani0502/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/wani0502/dsa/tree/master/3312-sorted-gcd-pair-queries) |
@@ -721,4 +725,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/wani0502/dsa/tree/master/0207-course-schedule) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
