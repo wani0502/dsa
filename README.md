@@ -11,6 +11,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/wani0502/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/wani0502/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/wani0502/dsa/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/wani0502/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wani0502/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/wani0502/dsa/tree/master/0904-fruit-into-baskets) |
@@ -282,6 +283,7 @@
 | [0435-non-overlapping-intervals](https://github.com/wani0502/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/wani0502/dsa/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/wani0502/dsa/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/wani0502/dsa/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/wani0502/dsa/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/wani0502/dsa/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wani0502/dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -508,6 +510,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/wani0502/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/wani0502/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/wani0502/dsa/tree/master/0173-binary-search-tree-iterator) |
+| [0496-next-greater-element-i](https://github.com/wani0502/dsa/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/wani0502/dsa/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/wani0502/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/wani0502/dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -551,6 +554,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/wani0502/dsa/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/wani0502/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/wani0502/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
