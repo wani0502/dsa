@@ -254,6 +254,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/wani0502/dsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/wani0502/dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/wani0502/dsa/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/wani0502/dsa/tree/master/0056-merge-intervals) |
@@ -367,6 +368,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/wani0502/dsa/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/wani0502/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/wani0502/dsa/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/wani0502/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -380,6 +382,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/wani0502/dsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/wani0502/dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/wani0502/dsa/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/wani0502/dsa/tree/master/0062-unique-paths) |
@@ -513,6 +516,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/wani0502/dsa/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/wani0502/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/wani0502/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/wani0502/dsa/tree/master/0144-binary-tree-preorder-traversal) |
@@ -567,6 +571,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/wani0502/dsa/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/wani0502/dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/wani0502/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/wani0502/dsa/tree/master/0503-next-greater-element-ii) |
