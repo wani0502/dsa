@@ -278,6 +278,7 @@
 | [0204-count-primes](https://github.com/wani0502/dsa/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/wani0502/dsa/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/wani0502/dsa/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/wani0502/dsa/tree/master/0260-single-number-iii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/wani0502/dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/wani0502/dsa/tree/master/0322-coin-change) |
@@ -603,6 +604,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/wani0502/dsa/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/wani0502/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -702,6 +704,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/wani0502/dsa/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/wani0502/dsa/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/wani0502/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/wani0502/dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/wani0502/dsa/tree/master/0930-binary-subarrays-with-sum) |
@@ -758,4 +761,16 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/wani0502/dsa/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/wani0502/dsa/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/wani0502/dsa/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
