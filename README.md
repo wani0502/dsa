@@ -77,6 +77,7 @@
 | [0115-distinct-subsequences](https://github.com/wani0502/dsa/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/wani0502/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/wani0502/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/wani0502/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/wani0502/dsa/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/wani0502/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/wani0502/dsa/tree/master/0516-longest-palindromic-subsequence) |
@@ -165,6 +166,7 @@
 | [0200-number-of-islands](https://github.com/wani0502/dsa/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/wani0502/dsa/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/wani0502/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/wani0502/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/wani0502/dsa/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/wani0502/dsa/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/wani0502/dsa/tree/master/0547-number-of-provinces) |
@@ -503,6 +505,7 @@
 | ------- |
 | [0078-subsets](https://github.com/wani0502/dsa/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/wani0502/dsa/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/wani0502/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/wani0502/dsa/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/wani0502/dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
