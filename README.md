@@ -288,6 +288,7 @@
 | [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/wani0502/dsa/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/wani0502/dsa/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/wani0502/dsa/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/wani0502/dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/wani0502/dsa/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/wani0502/dsa/tree/master/0368-largest-divisible-subset) |
@@ -384,6 +385,7 @@
 | [0042-trapping-rain-water](https://github.com/wani0502/dsa/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/wani0502/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/wani0502/dsa/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/wani0502/dsa/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/wani0502/dsa/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/wani0502/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/wani0502/dsa/tree/master/1048-longest-string-chain) |
