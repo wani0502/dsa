@@ -39,6 +39,7 @@
 | [0029-divide-two-integers](https://github.com/wani0502/dsa/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/wani0502/dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/wani0502/dsa/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/wani0502/dsa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/wani0502/dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/wani0502/dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/wani0502/dsa/tree/master/0342-power-of-four) |
@@ -279,6 +280,7 @@
 | [0137-single-number-ii](https://github.com/wani0502/dsa/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/wani0502/dsa/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/wani0502/dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/wani0502/dsa/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/wani0502/dsa/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/wani0502/dsa/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/wani0502/dsa/tree/master/0204-count-primes) |
@@ -381,6 +383,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/wani0502/dsa/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/wani0502/dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/wani0502/dsa/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/wani0502/dsa/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/wani0502/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/wani0502/dsa/tree/master/1048-longest-string-chain) |
