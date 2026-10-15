@@ -265,6 +265,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wani0502/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/wani0502/dsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/wani0502/dsa/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/wani0502/dsa/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/wani0502/dsa/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/wani0502/dsa/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/wani0502/dsa/tree/master/0057-insert-interval) |
@@ -567,6 +568,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/wani0502/dsa/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/wani0502/dsa/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/wani0502/dsa/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/wani0502/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -615,6 +617,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/wani0502/dsa/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/wani0502/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/wani0502/dsa/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/wani0502/dsa/tree/master/0130-surrounded-regions) |
