@@ -9,6 +9,7 @@
 | [0076-minimum-window-substring](https://github.com/wani0502/dsa/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wani0502/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/wani0502/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/wani0502/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/wani0502/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/wani0502/dsa/tree/master/0496-next-greater-element-i) |
@@ -280,6 +281,7 @@
 | [0135-candy](https://github.com/wani0502/dsa/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/wani0502/dsa/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/wani0502/dsa/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/wani0502/dsa/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/wani0502/dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/wani0502/dsa/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/wani0502/dsa/tree/master/0198-house-robber) |
@@ -491,6 +493,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/wani0502/dsa/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/wani0502/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/wani0502/dsa/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/wani0502/dsa/tree/master/0435-non-overlapping-intervals) |
@@ -513,6 +516,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wani0502/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/wani0502/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/wani0502/dsa/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -588,6 +592,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/wani0502/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/wani0502/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/wani0502/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -792,6 +797,7 @@
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/wani0502/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
 ## Queue
 |  |
