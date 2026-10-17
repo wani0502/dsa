@@ -14,6 +14,7 @@
 | [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/wani0502/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/wani0502/dsa/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/wani0502/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/wani0502/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wani0502/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/wani0502/dsa/tree/master/0904-fruit-into-baskets) |
@@ -111,6 +112,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/wani0502/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/wani0502/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/wani0502/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/wani0502/dsa/tree/master/1140-stone-game-ii) |
@@ -310,6 +312,7 @@
 | [0503-next-greater-element-ii](https://github.com/wani0502/dsa/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/wani0502/dsa/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/wani0502/dsa/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/wani0502/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wani0502/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/wani0502/dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/wani0502/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
