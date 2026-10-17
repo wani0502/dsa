@@ -266,6 +266,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wani0502/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wani0502/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/wani0502/dsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/wani0502/dsa/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/wani0502/dsa/tree/master/0054-spiral-matrix) |
@@ -362,6 +363,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wani0502/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/wani0502/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/wani0502/dsa/tree/master/0493-reverse-pairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/wani0502/dsa/tree/master/1004-max-consecutive-ones-iii) |
