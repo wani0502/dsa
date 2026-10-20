@@ -321,6 +321,7 @@
 | [0733-flood-fill](https://github.com/wani0502/dsa/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/wani0502/dsa/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/wani0502/dsa/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/wani0502/dsa/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/wani0502/dsa/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/wani0502/dsa/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/wani0502/dsa/tree/master/0907-sum-of-subarray-minimums) |
@@ -369,6 +370,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wani0502/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/wani0502/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/wani0502/dsa/tree/master/0493-reverse-pairs) |
+| [0875-koko-eating-bananas](https://github.com/wani0502/dsa/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/wani0502/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/wani0502/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/wani0502/dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
