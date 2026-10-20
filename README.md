@@ -74,6 +74,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/wani0502/dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/wani0502/dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/wani0502/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/wani0502/dsa/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -361,6 +362,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/wani0502/dsa/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/wani0502/dsa/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/wani0502/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/wani0502/dsa/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -531,6 +533,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/wani0502/dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/wani0502/dsa/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/wani0502/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/wani0502/dsa/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -556,6 +559,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/wani0502/dsa/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/wani0502/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/wani0502/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/wani0502/dsa/tree/master/3886-sum-of-sortable-integers) |
 ## Linked List
 |  |
 | ------- |
