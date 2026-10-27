@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/wani0502/dsa/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/wani0502/dsa/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/wani0502/dsa/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wani0502/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/wani0502/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/wani0502/dsa/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/wani0502/dsa/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/wani0502/dsa/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/wani0502/dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/wani0502/dsa/tree/master/0070-climbing-stairs) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/wani0502/dsa/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/wani0502/dsa/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/wani0502/dsa/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/wani0502/dsa/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/wani0502/dsa/tree/master/0115-distinct-subsequences) |
