@@ -81,6 +81,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/wani0502/dsa/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/wani0502/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/wani0502/dsa/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/wani0502/dsa/tree/master/0072-edit-distance) |
