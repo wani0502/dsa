@@ -377,6 +377,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/wani0502/dsa/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/wani0502/dsa/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/wani0502/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/wani0502/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/wani0502/dsa/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/wani0502/dsa/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -493,6 +494,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/wani0502/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/wani0502/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/wani0502/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/wani0502/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -533,6 +535,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/wani0502/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/wani0502/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/wani0502/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/wani0502/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -675,6 +678,7 @@
 | [1020-number-of-enclaves](https://github.com/wani0502/dsa/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/wani0502/dsa/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/wani0502/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/wani0502/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Segment Tree
 |  |
 | ------- |
