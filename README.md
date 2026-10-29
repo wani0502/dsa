@@ -426,6 +426,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/wani0502/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wani0502/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/wani0502/dsa/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/wani0502/dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -591,6 +592,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/wani0502/dsa/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/wani0502/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/wani0502/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/wani0502/dsa/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/wani0502/dsa/tree/master/0237-delete-node-in-a-linked-list) |
