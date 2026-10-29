@@ -431,6 +431,7 @@
 | [0042-trapping-rain-water](https://github.com/wani0502/dsa/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/wani0502/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/wani0502/dsa/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/wani0502/dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/wani0502/dsa/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/wani0502/dsa/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/wani0502/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -595,6 +596,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/wani0502/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/wani0502/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/wani0502/dsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/wani0502/dsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/wani0502/dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/wani0502/dsa/tree/master/0328-odd-even-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/wani0502/dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -608,6 +610,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/wani0502/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/wani0502/dsa/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/wani0502/dsa/tree/master/0173-binary-search-tree-iterator) |
+| [0234-palindrome-linked-list](https://github.com/wani0502/dsa/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/wani0502/dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/wani0502/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/wani0502/dsa/tree/master/0503-next-greater-element-ii) |
@@ -742,6 +745,7 @@
 | [0002-add-two-numbers](https://github.com/wani0502/dsa/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/wani0502/dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/wani0502/dsa/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/wani0502/dsa/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/wani0502/dsa/tree/master/0342-power-of-four) |
 ## Memoization
 |  |
