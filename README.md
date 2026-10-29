@@ -40,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/wani0502/dsa/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/wani0502/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/wani0502/dsa/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/wani0502/dsa/tree/master/0029-divide-two-integers) |
@@ -589,6 +590,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/wani0502/dsa/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/wani0502/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/wani0502/dsa/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/wani0502/dsa/tree/master/0237-delete-node-in-a-linked-list) |
@@ -734,6 +736,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/wani0502/dsa/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/wani0502/dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/wani0502/dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/wani0502/dsa/tree/master/0342-power-of-four) |
