@@ -431,6 +431,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wani0502/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/wani0502/dsa/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/wani0502/dsa/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/wani0502/dsa/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/wani0502/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/wani0502/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/wani0502/dsa/tree/master/0189-rotate-array) |
@@ -546,6 +547,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/wani0502/dsa/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/wani0502/dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/wani0502/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/wani0502/dsa/tree/master/0368-largest-divisible-subset) |
@@ -571,6 +573,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wani0502/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/wani0502/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/wani0502/dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/wani0502/dsa/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/wani0502/dsa/tree/master/0493-reverse-pairs) |
 ## Backtracking
@@ -601,6 +604,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/wani0502/dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/wani0502/dsa/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/wani0502/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0148-sort-list](https://github.com/wani0502/dsa/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/wani0502/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/wani0502/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/wani0502/dsa/tree/master/0234-palindrome-linked-list) |
@@ -897,6 +901,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/wani0502/dsa/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/wani0502/dsa/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
