@@ -571,6 +571,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/wani0502/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/wani0502/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/wani0502/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/wani0502/dsa/tree/master/0148-sort-list) |
@@ -601,6 +602,7 @@
 | [0002-add-two-numbers](https://github.com/wani0502/dsa/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/wani0502/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/wani0502/dsa/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/wani0502/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/wani0502/dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/wani0502/dsa/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/wani0502/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -715,6 +717,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/wani0502/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/wani0502/dsa/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/wani0502/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
@@ -901,10 +904,15 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/wani0502/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/wani0502/dsa/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/wani0502/dsa/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/wani0502/dsa/tree/master/0493-reverse-pairs) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/wani0502/dsa/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
