@@ -915,4 +915,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/wani0502/dsa/tree/master/0023-merge-k-sorted-lists) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/wani0502/dsa/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/wani0502/dsa/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
