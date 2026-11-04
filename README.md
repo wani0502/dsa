@@ -206,6 +206,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wani0502/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/wani0502/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/wani0502/dsa/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/wani0502/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2685-count-the-number-of-complete-components](https://github.com/wani0502/dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/wani0502/dsa/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -355,6 +356,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/wani0502/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/wani0502/dsa/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/wani0502/dsa/tree/master/1048-longest-string-chain) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/wani0502/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/wani0502/dsa/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/wani0502/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/wani0502/dsa/tree/master/1250-check-if-it-is-a-good-array) |
@@ -709,6 +711,7 @@
 | [0733-flood-fill](https://github.com/wani0502/dsa/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/wani0502/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/wani0502/dsa/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/wani0502/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/wani0502/dsa/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/wani0502/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/wani0502/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
