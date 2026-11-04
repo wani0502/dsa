@@ -207,6 +207,7 @@
 | [0994-rotting-oranges](https://github.com/wani0502/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/wani0502/dsa/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/wani0502/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/wani0502/dsa/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/wani0502/dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/wani0502/dsa/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -282,6 +283,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wani0502/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/wani0502/dsa/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/wani0502/dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/wani0502/dsa/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/wani0502/dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/wani0502/dsa/tree/master/3310-remove-methods-from-project) |
 ## Array
@@ -368,6 +370,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/wani0502/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/wani0502/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/wani0502/dsa/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/wani0502/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1872-stone-game-viii](https://github.com/wani0502/dsa/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/wani0502/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/wani0502/dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -405,6 +408,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/wani0502/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/wani0502/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/wani0502/dsa/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/wani0502/dsa/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/wani0502/dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/wani0502/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/wani0502/dsa/tree/master/3312-sorted-gcd-pair-queries) |
@@ -421,6 +425,7 @@
 | [0785-is-graph-bipartite](https://github.com/wani0502/dsa/tree/master/0785-is-graph-bipartite) |
 | [0952-largest-component-size-by-common-factor](https://github.com/wani0502/dsa/tree/master/0952-largest-component-size-by-common-factor) |
 | [1020-number-of-enclaves](https://github.com/wani0502/dsa/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/wani0502/dsa/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/wani0502/dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/wani0502/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -713,6 +718,7 @@
 | [1020-number-of-enclaves](https://github.com/wani0502/dsa/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/wani0502/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/wani0502/dsa/tree/master/1260-shift-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/wani0502/dsa/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/wani0502/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/wani0502/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Segment Tree
@@ -734,6 +740,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/wani0502/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/wani0502/dsa/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/wani0502/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/wani0502/dsa/tree/master/1631-path-with-minimum-effort) |
 ## Counting Sort
 |  |
 | ------- |
@@ -942,4 +949,8 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/wani0502/dsa/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/wani0502/dsa/tree/master/0127-word-ladder) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/wani0502/dsa/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
