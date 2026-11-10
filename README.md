@@ -19,6 +19,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/wani0502/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/wani0502/dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/wani0502/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/wani0502/dsa/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/wani0502/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/wani0502/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/wani0502/dsa/tree/master/0904-fruit-into-baskets) |
@@ -340,6 +341,7 @@
 | [0518-coin-change-ii](https://github.com/wani0502/dsa/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/wani0502/dsa/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/wani0502/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/wani0502/dsa/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wani0502/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/wani0502/dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/wani0502/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -530,6 +532,7 @@
 | [0410-split-array-largest-sum](https://github.com/wani0502/dsa/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/wani0502/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/wani0502/dsa/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/wani0502/dsa/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/wani0502/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/wani0502/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/wani0502/dsa/tree/master/0860-lemonade-change) |
@@ -571,6 +574,7 @@
 | [0368-largest-divisible-subset](https://github.com/wani0502/dsa/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/wani0502/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/wani0502/dsa/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/wani0502/dsa/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wani0502/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/wani0502/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/wani0502/dsa/tree/master/1048-longest-string-chain) |
@@ -691,6 +695,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/wani0502/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/wani0502/dsa/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/wani0502/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/wani0502/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/wani0502/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -743,6 +748,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/wani0502/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/wani0502/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/wani0502/dsa/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/wani0502/dsa/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/wani0502/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/wani0502/dsa/tree/master/1631-path-with-minimum-effort) |
 ## Counting Sort
