@@ -16,6 +16,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/wani0502/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/wani0502/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/wani0502/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/wani0502/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/wani0502/dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/wani0502/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -329,6 +330,7 @@
 | [0283-move-zeroes](https://github.com/wani0502/dsa/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/wani0502/dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/wani0502/dsa/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/wani0502/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/wani0502/dsa/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/wani0502/dsa/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/wani0502/dsa/tree/master/0416-partition-equal-subset-sum) |
@@ -574,6 +576,7 @@
 | [0169-majority-element](https://github.com/wani0502/dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/wani0502/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/wani0502/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/wani0502/dsa/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/wani0502/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/wani0502/dsa/tree/master/0455-assign-cookies) |
@@ -603,6 +606,7 @@
 | [0148-sort-list](https://github.com/wani0502/dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/wani0502/dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/wani0502/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/wani0502/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/wani0502/dsa/tree/master/0493-reverse-pairs) |
 ## Backtracking
 |  |
@@ -699,6 +703,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/wani0502/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/wani0502/dsa/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/wani0502/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/wani0502/dsa/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/wani0502/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/wani0502/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -752,6 +757,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/wani0502/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/wani0502/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/wani0502/dsa/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/wani0502/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/wani0502/dsa/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/wani0502/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/wani0502/dsa/tree/master/1631-path-with-minimum-effort) |
@@ -971,4 +977,9 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/wani0502/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/wani0502/dsa/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/wani0502/dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
