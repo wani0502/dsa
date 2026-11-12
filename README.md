@@ -446,6 +446,7 @@
 | [0785-is-graph-bipartite](https://github.com/wani0502/dsa/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/wani0502/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/wani0502/dsa/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/wani0502/dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2685-count-the-number-of-complete-components](https://github.com/wani0502/dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/wani0502/dsa/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/wani0502/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -523,6 +524,7 @@
 | [1510-stone-game-iv](https://github.com/wani0502/dsa/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/wani0502/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/wani0502/dsa/tree/master/1872-stone-game-viii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/wani0502/dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/wani0502/dsa/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/wani0502/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/wani0502/dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -755,6 +757,7 @@
 | [0207-course-schedule](https://github.com/wani0502/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/wani0502/dsa/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/wani0502/dsa/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/wani0502/dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -978,6 +981,7 @@
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/wani0502/dsa/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/wani0502/dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Quickselect
 |  |
 | ------- |
@@ -991,4 +995,5 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/wani0502/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/wani0502/dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
