@@ -204,6 +204,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/wani0502/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/wani0502/dsa/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/wani0502/dsa/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/wani0502/dsa/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/wani0502/dsa/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/wani0502/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/wani0502/dsa/tree/master/0802-find-eventual-safe-states) |
@@ -283,6 +284,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/wani0502/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/wani0502/dsa/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/wani0502/dsa/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/wani0502/dsa/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/wani0502/dsa/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/wani0502/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/wani0502/dsa/tree/master/0802-find-eventual-safe-states) |
@@ -354,6 +356,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/wani0502/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/wani0502/dsa/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/wani0502/dsa/tree/master/0735-asteroid-collision) |
+| [0778-swim-in-rising-water](https://github.com/wani0502/dsa/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/wani0502/dsa/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/wani0502/dsa/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/wani0502/dsa/tree/master/0875-koko-eating-bananas) |
@@ -413,6 +416,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/wani0502/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0410-split-array-largest-sum](https://github.com/wani0502/dsa/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/wani0502/dsa/tree/master/0493-reverse-pairs) |
+| [0778-swim-in-rising-water](https://github.com/wani0502/dsa/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/wani0502/dsa/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/wani0502/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/wani0502/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -433,6 +437,7 @@
 | [0130-surrounded-regions](https://github.com/wani0502/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/wani0502/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/wani0502/dsa/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/wani0502/dsa/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/wani0502/dsa/tree/master/0785-is-graph-bipartite) |
 | [0952-largest-component-size-by-common-factor](https://github.com/wani0502/dsa/tree/master/0952-largest-component-size-by-common-factor) |
 | [1020-number-of-enclaves](https://github.com/wani0502/dsa/tree/master/1020-number-of-enclaves) |
@@ -742,6 +747,7 @@
 | [0200-number-of-islands](https://github.com/wani0502/dsa/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/wani0502/dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/wani0502/dsa/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/wani0502/dsa/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/wani0502/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/wani0502/dsa/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/wani0502/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -772,6 +778,7 @@
 | [0347-top-k-frequent-elements](https://github.com/wani0502/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/wani0502/dsa/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/wani0502/dsa/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/wani0502/dsa/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/wani0502/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/wani0502/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/wani0502/dsa/tree/master/1631-path-with-minimum-effort) |
@@ -791,6 +798,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/wani0502/dsa/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/wani0502/dsa/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/wani0502/dsa/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/wani0502/dsa/tree/master/1872-stone-game-viii) |
@@ -987,6 +995,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/wani0502/dsa/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/wani0502/dsa/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/wani0502/dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/wani0502/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/wani0502/dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
