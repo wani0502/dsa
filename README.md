@@ -379,6 +379,7 @@
 | [0904-fruit-into-baskets](https://github.com/wani0502/dsa/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/wani0502/dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/wani0502/dsa/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/wani0502/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [0952-largest-component-size-by-common-factor](https://github.com/wani0502/dsa/tree/master/0952-largest-component-size-by-common-factor) |
 | [0992-subarrays-with-k-different-integers](https://github.com/wani0502/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/wani0502/dsa/tree/master/0994-rotting-oranges) |
@@ -545,6 +546,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/wani0502/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/wani0502/dsa/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/wani0502/dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/wani0502/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/wani0502/dsa/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/wani0502/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/wani0502/dsa/tree/master/1140-stone-game-ii) |
@@ -774,6 +776,7 @@
 | [0733-flood-fill](https://github.com/wani0502/dsa/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/wani0502/dsa/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/wani0502/dsa/tree/master/0827-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/wani0502/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/wani0502/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/wani0502/dsa/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/wani0502/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
