@@ -388,6 +388,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/wani0502/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/wani0502/dsa/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/wani0502/dsa/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/wani0502/dsa/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/wani0502/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/wani0502/dsa/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/wani0502/dsa/tree/master/1248-count-number-of-nice-subarrays) |
@@ -550,6 +551,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/wani0502/dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/wani0502/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/wani0502/dsa/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/wani0502/dsa/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/wani0502/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/wani0502/dsa/tree/master/1140-stone-game-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/wani0502/dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -872,11 +874,13 @@
 | [0416-partition-equal-subset-sum](https://github.com/wani0502/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/wani0502/dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/wani0502/dsa/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/wani0502/dsa/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/wani0502/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/wani0502/dsa/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/wani0502/dsa/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
