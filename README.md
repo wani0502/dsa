@@ -46,6 +46,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/wani0502/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/wani0502/dsa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/wani0502/dsa/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/wani0502/dsa/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -427,6 +428,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/wani0502/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/wani0502/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/wani0502/dsa/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/wani0502/dsa/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/wani0502/dsa/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -449,6 +451,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/wani0502/dsa/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/wani0502/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/wani0502/dsa/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3934-smallest-unique-subarray](https://github.com/wani0502/dsa/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -1074,4 +1077,16 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/wani0502/dsa/tree/master/1192-critical-connections-in-a-network) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/wani0502/dsa/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/wani0502/dsa/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/wani0502/dsa/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
